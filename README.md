@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prachimudholkar04
 - 👀 I’m interested in ...Data science
 - 🌱 I’m currently learning ...python
-- 💞️ I'm looking for someone who guide me in data science
+- I am MSc AI student studying at Birmingham city university 
 - 📫 How to reach me ... prachimudholkar0408@gmail.com
 
 <!---
